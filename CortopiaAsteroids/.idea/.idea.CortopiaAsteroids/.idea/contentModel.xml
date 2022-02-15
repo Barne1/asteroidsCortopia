@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Hugo\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Hugo\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_CortopiaAsteroids.-1748428549.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Hugo\Documents\Unity Projects\CortopiaAsteroids" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Asteroid.cs" t="Include" />
+          <e p="AsteroidSpawner.cs" t="Include" />
+          <e p="CollisionManager.cs" t="Include" />
+          <e p="LivesUIManager.cs" t="Include" />
+          <e p="MainMenuManager.cs" t="Include" />
+          <e p="ManagerGameScript.cs" t="Include" />
+          <e p="Missile.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="ScoreUIManager.cs" t="Include" />
+          <e p="SimpleCircleCollision.cs" t="Include" />
+          <e p="WorldBox.cs" t="Include" />
+        </e>
+      </e>
+      <e p="CortopiaAsteroids.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
